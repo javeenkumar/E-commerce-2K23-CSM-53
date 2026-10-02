@@ -2,8 +2,7 @@
 
 **Author:** Javeen Kumar  
 **Roll No.:** 2K23/CSM/53  
-**Course:** E-Commerce  
-**Department:** Computer Science / Artificial Intelligence, University of Sindh, Jamshoro  
+**Course:** E-Commerce    
 
 ---
 
